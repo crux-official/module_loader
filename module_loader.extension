@@ -1,0 +1,8 @@
+# The module_loader concern's header-only contract (static + dynamic renderings).
+format_version = 1
+name   = "module_loader"
+kind   = "interface"
+version        = "2.0.0"
+implements_api = "2.0.0"
+requires = []
+renderings = ["static", "dynamic"]
